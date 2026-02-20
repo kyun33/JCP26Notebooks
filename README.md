@@ -28,12 +28,12 @@ Here are some best practices to follow:
    ```
 
 3. **Create a New Branch:**
-   Create a branch from main for your notebooks.
+   Create a branch from main for your notebooks. (WEEK 1)
 
    ```sh
    git checkout -b [name]
    ```
-   Switch to your branch if you already created your branch
+   Switch to your branch if you already created your branch. (DO THIS AFTER WEEK 2)
    ```sh
    git checkout [name]
    ```
