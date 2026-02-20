@@ -1,5 +1,5 @@
 
-## Setting Up The Project
+## Setting Up The Repo
 1. Clone the repo to your local machine
 ```sh
    git clone [repo-url]
