@@ -36,6 +36,7 @@ Here are some best practices to follow:
    Switch to your branch if you already created your branch. (DO THIS AFTER WEEK 2)
    ```sh
    git checkout [name]
+   git merge main
    ```
 
 4. **Add Files and Commit Changes:**
