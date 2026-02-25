@@ -55,3 +55,17 @@ Here are some best practices to follow:
    ```
 
 
+**IF YOU MADE EDITS ALR BEFORE DOING THESE STEPS CORRECTLY AND RUN INTO error: Your local changes to the following files would be overwritten by checkout: message:**
+Just make sure you are in the main branch still and add/commit. Then switch branches and push into your own branch. 
+   ```sh
+   git branch (make sure ur in main)
+   git add [notebook name]
+   git commit -m "Finished notebook _"
+   git checkout [name]
+   git push origin [name]
+   ```
+
+
+
+
+
