@@ -1,0 +1,11 @@
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environments / misc
+anaconda_projects/
+.DS_Store
+
+# Data files (only if not required to submit)
+*.csv
+*.zip
